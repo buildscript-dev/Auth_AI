@@ -10,3 +10,7 @@ login_manager.login_view = 'auth.login'
 login_manager.login_message_category = 'info'
 
 bcrypt = Bcrypt()
+
+
+
+
